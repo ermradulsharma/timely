@@ -1,10 +1,15 @@
 {
     "name": "mradulsharma/timely",
     "type": "project",
-    "description": "Timely - Service Booking & Job Portal platform.",
+    "description": "Timely - A comprehensive Service Booking and Job Portal platform built with Laravel.",
     "keywords": [
-        "framework",
-        "laravel"
+        "laravel",
+        "booking-system",
+        "job-portal",
+        "service-provider",
+        "stripe-payments",
+        "hiring-platform",
+        "php"
     ],
     "license": "MIT",
     "require": {
