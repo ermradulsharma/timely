@@ -1,0 +1,6 @@
+* text=auto
+*.php diff=php
+
+/public/admin/* binary
+/public/images/* binary
+/public/uploads/* binary
